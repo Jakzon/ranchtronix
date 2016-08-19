@@ -19,6 +19,14 @@ These places are usually cheaper if they have what you want, and often have weir
 <b>Comments:</b> Good if you are looking for junky surplus parts to stock your lab...<br>
 [http://www.allelectronics.com](http://www.allelectronics.com)
 
+## Online Components
+<b>Order Turnaround Time:</b> 1 day<br>
+<b>Shipping Time to Bay Area:</b> 3-4 days via UPS ground<br>
+<b>[Shipping Costs](http://www.onlinecomponents.com/flatrateshipping.aspx):</b> high ($7.95 flat rate for ground, $21.95 for 2-day air)<br>
+<b>Charges CA tax:</b> yes<br>
+<b>Comments:</b> Great if your looking for a giant surplus of parts<br>
+[http://www.onlinecomponents.com](http://www.onlinecomponents.com)
+
 ## American Science and Surplus
 Comments: Science type surplus equipment and stuff.
 [http://www.sciplus.com](http://www.sciplus.com)
